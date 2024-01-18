@@ -1,0 +1,957 @@
+{
+  "video": {
+    "sites": [
+    {
+                "key": "douban",
+                "name": "📛公众号：挺好分享丨更新时间：2023-12-06",
+                "type": 3,
+	"indexs": 1,			
+                "api": "douban_open.js"
+            },
+            {
+                "key": "nangua",
+                "name": "📛挺好丨南瓜丨新增",
+                "type": 3,
+                "api": "ng_open.js"
+            },		
+            {
+                "key": "xyyy",
+                "name": "📛挺好丨小鸭丨新增",
+                "type": 3,
+                "api": "xyyy_open.js"
+            },		
+            {
+                "key": "ikanbot",
+                "name": "📛挺好丨爱看丨新增",
+                "type": 3,
+                "api": "ikanbot_open.js"
+            },
+            {
+                "key": "17kan",
+                "name": "📛挺好丨17看丨新增",
+                "type": 3,
+                "api": "yqktv_open.js"
+            },
+            {
+                "key": "tutu",
+                "name": "📛挺好丨图图丨新增",
+                "type": 3,
+                "api": "tutu_open.js"
+            },
+   {
+        "key": "wobg",
+        "name": "📛挺好丨玩偶",
+        "type": 4,
+        "api": "wobg_open.js",
+        "ext": "阿狸token码"
+   },  
+   {
+                "key": "xiaozhitiao",
+                "name": "🔎挺好丨纸条",
+                "type": 3,
+                "api": "xiaozhitiao_open.js",
+                "ext": "阿狸token码"
+            },			
+            {
+                "key": "dovx",
+                "name": "🔎挺好丨七夜",
+                "type": 3,
+                "api": "dovx_open.js",
+                "ext": "阿狸token码"
+            },	
+            {
+                "key": "pansearch",
+                "name": "🔎挺好丨PanS",
+                "type": 3,
+                "api": "pansearch_open.js",
+                "ext": "阿狸token码"
+            },
+            {
+                "key": "pansou",
+                "name": "🔎挺好丨盘搜",
+                "type": 3,
+                "api": "pansou_open.js",
+                "ext": "阿狸token码"
+            },
+   {
+        "key": "UP云搜",
+        "name": "🔎挺好丨云搜",
+        "type": 3,
+        "api": "upyun_open.js",
+        "ext": "阿狸token码"
+    },
+    {
+        "key": "易搜",
+        "name": "🔎挺好丨易搜",
+        "type": 3,
+        "api": "yiso_open.js",
+        "ext": "阿狸token码$$$易搜账号cookie"
+    },
+    {
+        "key": "云盘4K",
+        "name": "🔎挺好丨云盘",
+        "type": 3,
+        "api": "yunpan4k_open.js",
+        "ext": "阿狸token码"
+    },
+    {
+        "key": "找资源",
+        "name": "🔎挺好丨资源",
+        "type": 3,
+        "api": "zhaozy_open.js",
+        "ext": "阿狸token码$$$找资源账号$$$找资源密码"
+    },
+    {
+        "key": "夸克趣盘搜",	
+        "name": "🔎挺好丨夸克",
+        "type": 3,
+        "api": "funletu_open.js",
+        "ext": "夸克账号cookie"
+  },     	                     			
+ {
+        "key": "kkys",
+        "name": "📛挺好丨快看",
+        "type": 3,
+       "api": "kkys_open.js"
+    },
+{
+          "key": "subaibai",
+          "name": "📛挺好丨素白",
+          "type": 3,
+         "api": "subaibai_open.js"
+    },                
+ {
+        "key": "ikanbot",
+        "name": "📛挺好丨爱看",
+        "type": 3,
+       "api": "ikanbot_open.js"
+    }, 
+ {
+        "key": "ng",
+        "name": "📛挺好丨南瓜",
+        "type": 3,
+       "api": "ng_open.js"
+   },
+ {
+        "key": "yiqik",
+        "name": "📛挺好丨一起",
+        "type": 3,
+        "api": "yqktv_open.js"
+      }   ,   	
+{
+      "key": "555",
+      "name": "📛挺好丨五五",
+      "type": 3,
+      "api": "555dy_open.js"
+   },      
+{
+        "key": "libvio",
+        "name": "📛挺好丨立播",
+        "type": 3,
+       "api": "libvio_open.js"
+   }, 
+
+
+  {
+        "key": "jojo_open",
+        "name": "📛挺好丨俊俊",
+        "type": 3,
+        "api": "jiohub_open.js"
+   },   
+           {
+                "key": "voflix",
+                "name": "📛挺好丨VF",
+                "type": 3,
+                "api": "voflix_open.js" 
+            },
+ {
+        "key": "ytvip",
+        "name": "📛挺好丨影探",
+        "type": 3,
+       "api": "yt_open.js",
+        "ext": "http://ytcms.lyyytv.cn/api.php/app/"
+      }, 
+            {
+                "key": "yzz",
+                "name": "📛挺好丨影啧",
+                "type": 3,
+                "api": "yzz_open.js"
+            },
+            {
+                "key": "inmi",
+                "name": "📛挺好丨映迷",
+                "type": 3,
+                "api": "ym_open.js" 
+            },
+  {
+                "key": "rbk",
+                "name": "📛挺好丨播庫",
+                "type": 3,
+                "api": "rbk_open.js" 
+            },
+            {
+                "key": "52ju",
+                "name": "📛挺好丨五二",
+                "type": 3,
+                "api": "52ju_open.js" 
+            },
+  
+            {
+                "key": "1free",
+                "name": "📛挺好丨一笑",
+                "type": 3,
+                "api": "1free_open.js" 
+            },
+            {
+                "key": "panghu",
+                "name": "📛挺好丨胖虎",
+                "type": 3,
+                "api": "panghu_open.js"
+            },
+  {
+                "key": "lz",
+                "name": "📛挺好丨量子",
+                "type": 3,
+                "api": "lz_open.js"
+            },	
+            {
+                "key": "mfk",
+                "name": "📛挺好丨免费",
+                "type": 3,
+                "api": "mfk_open.js"
+            },
+ 
+            {
+                "key": "zjm",
+                "name": "📛挺好丨剧迷",
+                "type": 3,
+                "api": "zjm_open.js"
+            },
+ {
+                "key": "mgys",
+                "name": "📛挺好丨蘑菇",
+                "type": 3,
+                "api": "mgys_open.js"
+            },
+   {
+                "key": "dsxys",
+                "name": "📛挺好丨师兄",
+                "type": 3,
+                "api": "dsxys_open.js" 
+            },
+
+
+            {
+                "key": "dyxs",
+                "name": "📛挺好丨先生",
+                "type": 3,
+                "api": "dyxs_open.js" 
+            },
+            {
+                "key": "mayiya",
+                "name": "📛挺好丨麻衣",
+                "type": 3,
+                "api": "mayiya_open.js" 
+            },
+
+   {
+                "key": "live",
+                "name": "📛挺好丨直播",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://tvbox.serv00.net/live.php"
+            },
+  {
+        "key": "cntv",
+        "name": "📛挺好丨新闻",
+        "type": 3,
+       "api": "cntv_open.js"
+    },  
+            {
+                "key": "huya",
+                "name": "📛挺好丨虎牙",
+                "type": 3,
+                "api": "huya_open.js"
+            },
+            {
+                "key": "douyu",
+                "name": "📛挺好丨斗鱼",
+                "type": 3,
+                "api": "douyu_open.js"
+            },
+ {
+                "key": "adm",
+                "name": "📛挺好丨动漫",
+                "type": 3,
+                "api": "adm_open.js"
+             },
+             {
+                "key": "anfun",
+                "name": "📛挺好丨Afun",
+                "type": 3,
+                "api": "anfun_open.js"
+            },
+            {
+                "key": "58dm",
+                "name": "📛挺好丨五八",
+                "type": 3,
+                "api": "58dm_open.js"
+            },
+    {
+        "key": "ubestkid",
+        "name": "📛挺好丨贝乐虎",
+        "type": 3,
+       "api": "ubestkid_open.js"
+    },  
+    {
+        "key": "tuxiaobei",
+        "name": "📛挺好丨兔小贝",
+        "type": 3,
+       "api": "tuxiaobei_open.js"
+    }, 
+    {
+        "key": "boosj",
+        "name": "📛挺好丨童趣",
+        "type": 3,
+       "api": "boosj_open.js"
+    }, 	
+{
+        "key": "bili",
+        "name": "📛挺好丨我哔",
+        "type": 3,
+       "api": "mybili_open.js"
+   }, 
+{
+        "key": "bilibili",
+        "name": "📛挺好丨哔哩",
+        "type": 3,
+       "api": "bili_open.js",
+        "ext": { "categories": "音乐#动画#电影#电视剧#番剧#综艺#影视#国创#娱乐#游戏#搞笑#单机游戏#沙雕动画#沙雕穿越#沙雕",     "cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;" 
+         }
+   }, 
+{
+                "key": "djwm",
+                "name": "📛挺好丨短剧",
+                "type": 3,
+                "api": "djwm_open.js"
+            },
+
+            {
+                "key": "kuwo",
+                "name": "📛挺好丨酷我",
+                "type": 3,
+                "api": "kuwo_open.js"
+            },			
+            {
+                "key": "vsdj",
+                "name": "📛挺好丨VSM",
+                "type": 3,
+                "api": "vsdj_open.js"
+            },	
+     {
+        "key": "sharenice",
+        "name": "📛挺好丨短视频",
+        "type": 3,
+       "api": "sharenice_open.js"
+   }, 
+  {
+        "key": "kuqimv",
+        "name": "📛挺好丨MV",
+        "type": 3,
+       "api": "kuqimv_open.js"
+    },
+  {   "key": "MV_vod",
+                "name": "📛挺好丨K歌",
+                "type": 3,
+                "api":"caiji.js",
+                "ext": "https://mv.wogg.link/mv/vod"      
+  },
+            {
+                "key": "wf",
+                "name": "📛挺好丨奈飞",
+                "type": 3,
+                "api": "wf_open.js"
+            },
+
+   {
+        "key": "caiji",
+        "name": "📛挺好 | 采集",
+        "type": 3,
+       "api": "caiji_open.js",
+        "ext": "https://ikunzyapi.com/api.php/provide/vod"
+    },    
+ 
+ 
+            {
+            
+             "key": "49zyw",
+             "name": "📛挺好 | 四九",
+             "type": 3,
+             "api": "caiji.js",
+             "ext": {
+             "url": "https://49zyw.com/api.php/provide/vod/from/49zyw",
+             "categories": [
+             "动作片",
+             "国产剧",
+             "欧美剧",
+             "香港剧",
+             "爱情片",
+             "科幻片",
+             "恐怖片",
+             "剧情片",
+             "战争片",
+             "喜剧片",
+             "动画片",
+             "犯罪片",  
+             "韩国剧",
+             "动漫",
+             "台湾剧",
+             "国产动漫",
+             "日本动漫",
+             "欧美动漫",
+             "泰国剧",
+             "日剧",
+             "奇幻片",
+             "灾难片",
+             "悬疑片",
+             "其他片",
+             "海外剧"
+             ]
+           }
+         },
+ 
+            {
+                "key": "69mj",
+                "name": "📛挺好 | 美剧",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "https://www.69mj.com/xgapp.php/v2/"
+            },
+            {
+                "key": "wolong",
+                "name": "📛挺好 | 卧龙",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": {
+                    "url": "https://collect.wolongzyw.com/api.php/provide/vod/",
+                    "categories": "国产剧#台湾剧#欧美剧#香港剧#海外剧#惊悚片#喜剧片#动作片#伦理片#爱情片#科幻片#剧情片#动画片#国产动漫#欧美动漫"
+                }
+            },
+ 
+            {
+                "key": "aidi",
+                "name": "📛挺好 | 爱迪",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "https://api123.adys.app/xgapp.php/v3/"
+            },
+            {
+                "key": "hello",
+                "name": "📛挺好 | 哈喽",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "http://www.miniku.cc/xgapp.php/v1/"
+            },
+            {
+                "key": "beijihu",
+                "name": "📛挺好 | 极狐",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "https://www.kuin.one/api.php/app/"
+            },
+            {
+                "key": "kuk",
+                "name": "📛挺好 | 天堂",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "http://dytt996.com/api.php/app/"
+            },
+            {
+                "key": "kku",
+                "name": "📛挺好 | 酷影",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+            },
+            {
+                "key": "sukan",
+                "name": "📛挺好 | 速看",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "https://sk100.tv/api.php/app/"
+            },
+
+            {
+                "key": "bfzy",
+                "name": "📛挺好 | 暴风",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://bfzyapi.com/api.php/provide/vod/"
+            },
+
+  
+            {
+                "key": "feifan",
+                "name": "📛挺好 | 非凡",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
+            },
+            {
+                "key": "feisu",
+                "name": "📛挺好 | 飞速",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"
+            },
+
+
+            {
+                "key": "apitiankongapi",
+                "name": "📛挺好 | 天空",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://api.tiankongapi.com/api.php/provide/vod/at/json"
+            },
+            {
+                "key": "pgfenwe078",
+                "name": "📛挺好 | 四圈",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://pg.fenwe078.cf/api.php/provide/vod/at/json"
+            }
+
+    ]
+  },
+  "read": {
+     "sites": [      
+        {
+                "key": "zz123",
+                "name": "📛挺好丨音乐",
+                "type": 10,
+                "api": "zz123_open.js"
+            },   
+   {
+        "key": "bookan",
+        "name": "📛挺好丨博看",
+        "type": 10,
+       "api": "bookan_open.js"
+    },
+    {
+        "key": "lbgs",
+        "name": "📛挺好丨老白",
+        "type": 10,
+       "api": "lbgs_open.js"
+    },	
+    {
+        "key": "230ts_book",
+        "name": "📛挺好丨艾尚",
+        "type": 10,
+      "api": "230ts_book_open.js"
+    }
+   ]
+  },   
+   "pan": {
+    "sites": [
+      {
+        "key": "alist",
+        "name": "挺好分享云盘大全",
+        "type": 40,
+       "api": "alist_open.js",
+        "ext": [
+          {
+            "name": "🟢丫仙女",
+            "server": "http://alist.xiaoya.pro/",
+            "startPage": "/",
+            "showAll": false,
+            "search": true,
+            "headers": {
+              "Authorization": ""
+            },
+            "params": {
+              "/abc": {
+                "password": "123"
+              },
+              "/abc/abc": {
+                "password": "123"
+              }
+            }
+          },
+ {
+      "name": "🟢正奕合集",
+      "server": "http://www.jczyl.top:2115/"
+    },
+{"name":"🟢小雅搜","server":"http://198.211.29.109:5678/"},
+{"name":"🟢小丫搜","server":"http://3.37.123.38:5678/"},
+{
+      "name": "🟢东哥",
+      "server": "http://101.34.67.237:5244/"
+    },
+ {
+      "name": "🟢美云",
+      "server": "http://xiaoya.nebula-nas.space:5678/"
+    },
+{
+      "name": "🟢小新盘",
+      "server": "https://pan.cdnxin.top/"
+    },
+{
+      "name": "🟢白云tv",
+      "server": "http://breadmyth.asuscomm.com:22222/"
+    },
+{
+      "name": "🟢小雅分类",
+      "server": "http://www.jczyl.top:5344/"
+    },
+{
+      "name": "🟢瑶瑶",
+      "server": "https://lyly.run.goorm.io/"
+    },
+    {
+      "name": "🟢潇洒个人",
+      "server": "https://alist.azad.asia/"
+    },
+  {
+      "name": "🟢鹏程",
+      "server": "https://pan.pengcheng.team/"
+    },
+  {
+      "name": "🟢小丫",
+      "server": "http://alist.xiaoya.pro/"
+    },
+    {
+      "name": "🟢触光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "🟢星梦",
+      "server": "https://pan.bashroot.top"
+    },
+  {
+      "name": "🟢弱水分享",
+      "server": "http://shicheng.wang:555/"
+    },
+    {
+      "name": "🟢神器云",
+      "server": "https://alist.ygxz.xyz/"
+    },	
+{
+      "name": "🟢资源站",
+      "server": "https://pan.ecve.cn/"
+    },
+        {
+               "name": "🟢雨呢",
+                    "server": "https://pan.clun.top/"
+                        },
+{
+      "name": "🟢学习",
+      "server": "http://45.85.77.23:5244/"
+    },
+
+{
+      "name": "🟢酷呵盘",
+      "server": "https://pan.kuhehe.top/"
+    },
+{
+      "name": "🟢分享者",
+      "server": "http://223.166.103.170:5244/"
+    },
+
+{
+      "name": "🟢目瞪口呆",
+      "server": "https://pan.mdgd.cc/"
+    },
+{
+      "name": "🟢小陈",
+      "server": "https://pan.oldming.top/"
+    },
+{
+      "name": "🟢动漫盘",
+      "server": "http://pan.smjc.cc"
+    },
+{
+      "name": "🟢神秘小盘",
+      "server": "https://yun.llzz.top/"
+    },
+{
+        "name" : "🟢神奇云",
+        "server" : "https://al.chirmyram.com/"
+
+    },
+{"name":"🟢个人站1","server":"http://223.166.240.80:5244/"},
+{"name":"🟢个人站2","server":"http://223.166.240.214:5244/"},
+{"name":"🟢个人站3","server":"http://223.166.201.129:5244/"},
+{"name":"🟢个人站4","server":"http://223.166.245.122:5244/"},
+{"name":"🟢个人站5","server":"http://223.166.31.107:5244/"},
+{
+      "name": "🟢SODAZ1",
+      "server": "https://pan.sodaz.xyz/"
+    },
+{
+      "name": "🟢ccaa",
+      "server": "http://69.161.221.160:5244/"
+    },
+    {
+      "name": "🟢姹莱坞",
+      "server": "https://alist.agczsz.top/",
+	  "passwd": "agree"
+    },	
+    {
+     "name": "🟢杜比",
+     "server": "https://dubi.tk"
+    },
+    {
+     "name": "🟢一只鱼",
+     "server": "https://alist.youte.ml"
+    },
+    {
+     "name": "🟢神族九帝",
+     "server": "https://alist.shenzjd.com"
+    },
+    {
+     "name": "🟢老谭",
+     "server": "https://pan.cqtjy.cn/"
+    },
+    {
+      "name": "🟢皓星繁天",
+      "server": "https://pan.hxft.xyz/"
+    },
+{
+        "name" : "🟢迅维云盘",
+        "server" : "https://pan.xwbeta.com"
+        
+    },
+{
+        "name" : "🟢姬路白雪",
+        "server" : "https://pan.jlbx.xyz"
+        
+    },
+{
+      "name": "🟢肥灿",
+      "server": "http://43.200.153.107:55609/"
+    },
+  {
+      "name": "🟢悦享盘",
+      "server": "https://pity.eu.org/"
+    },
+{
+      "name": "🟢小雅备用",
+      "server": "http://119.91.79.148:5678/🈴我的阿里分享"
+    },
+{
+      "name": "🟢小丫云",
+      "server": "http://1.14.19.228:5678/"
+    },
+    {"name": "🟢梓凌妙妙",
+    "server": "https://zi0.cc/"},
+    {"name": "🟢微资·随意盘",
+    "server": "https://apps.weixinqqq.com/"},
+{
+      "name": "🟢小丫分类备用",
+      "server": "http://123.60.191.158:5678/"
+    },
+{
+      "name": "🟢小雅云",
+      "server": "https://xiaoya.whp.lat/"
+    },
+{
+      "name": "🟢ecve资源",
+      "server": "https://pan.ecve.cn/"
+    },
+{
+      "name": "🟢潇洒备用",
+      "server": "http://www.azad.asia:5244/"
+    },
+{"name":"🟡ASMR语音","server":"https://www.asmrgay.com/"},
+{"name":"🟡大人盘","server": "https://hka.252798.xyz:1443/"},
+{"name":"🟡木偶","server":"https://abnormalize.icu/"},
+  {
+      "name": "🟡A大杂物库",
+      "server": "https://alist.qyide.com/"
+    },
+  {
+      "name": "🟡诸神小盘",
+      "server": "https://pan.zsxg.top/"
+    },
+  {
+      "name": "🟡福利盘",
+      "server": "http://69.161.221.160:5244/"
+    },
+  {
+      "name": "🟡罗汉果盘",
+      "server": "https://lala-ofbip.run.goorm.site/"
+    },
+ {
+      "name": "🟡爱豆福利",
+      "server": "https://alist.eduedu.eu.org/" 
+   },
+    {
+      "name": "🟡涛涛收藏",
+      "server": "https://alist.eduedu.eu.org/"
+    },
+ {
+      "name": "🟢正奕合集",
+      "server": "http://www.jczyl.top:5244/"
+    },
+{
+      "name": "🟢东哥",
+      "server": "http://101.34.67.237:5244/"
+    },
+ {
+      "name": "🟢美云",
+      "server": "https://h.dfjx.ltd/"
+    },
+{
+      "name": "🟢小新盘",
+      "server": "https://pan.cdnxin.top/"
+    },
+{
+      "name": "🟢白云tv",
+      "server": "http://breadmyth.asuscomm.com:22222/"
+    },
+{
+      "name": "🟢小雅分类",
+      "server": "http://www.214728327.xyz:5207/"
+    },
+{
+      "name": "🟢瑶瑶",
+      "server": "https://lyly.run.goorm.io/"
+    },
+    {
+      "name": "🟢潇洒个人",
+      "server": "https://alist.azad.asia/"
+    },
+  {
+      "name": "🟢鹏程",
+      "server": "https://pan.pengcheng.team/"
+    },
+  {
+      "name": "🟢小丫",
+      "server": "http://alist.xiaoya.pro/"
+    },
+    {
+      "name": "🟢触光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "🟢星梦",
+      "server": "https://pan.bashroot.top"
+    },
+  {
+      "name": "🟢弱水分享",
+      "server": "http://shicheng.wang:555/"
+    },
+    {
+      "name": "🟢神器云",
+      "server": "https://alist.ygxz.xyz/"
+    },	
+{
+      "name": "🟢酷呵盘",
+      "server": "https://pan.kuhehe.top/"
+    },
+{
+      "name": "🟢分享者",
+      "server": "https://melist.me/"
+    },
+
+{
+      "name": "🟢目瞪口呆",
+      "server": "https://pan.mdgd.cc/"
+    },
+{
+      "name": "🟢小陈",
+      "server": "https://ypan.cc/"
+    },
+{
+      "name": "🟢动漫盘",
+      "server": "http://pan.smjc.cc"
+    },
+{
+      "name": "🟢神秘小盘",
+            "server": "https://yun.ltt.zone/"
+    },
+{
+        "name" : "🟢神奇云",
+        "server" : "https://al.chirmyram.com/"
+
+    },
+{
+      "name": "🟢SODAZ1",
+      "server": "https://pan.sodaz.xyz/"
+    },
+{
+      "name": "🟢ccaa",
+      "server": "http://ww1.ccaac.xyz/"
+    },
+    {
+      "name": "🟢姹莱坞",
+      "server": "https://alist.agczsz.top/",
+	  "passwd": "agree"
+    },	
+    {
+     "name": "🟢杜比",
+     "server": "https://dubi.tk"
+    },
+    {
+     "name": "🟢一只鱼",
+     "server": "https://alist.youte.ml"
+    },
+    {
+     "name": "🟢神族九帝",
+     "server": "https://alist.shenzjd.com"
+    },
+    {
+     "name": "🟢老谭",
+     "server": "https://pan.cqtjy.cn/"
+    },
+    {
+      "name": "🟢皓星繁天",
+      "server": "https://pan.hxft.xyz/"
+    },
+{
+        "name" : "🟢迅维云盘",
+        "server" : "https://pan.xwbeta.com"
+        
+    },
+{
+        "name" : "🟢姬路白雪",
+        "server" : "https://pan.jlbx.xyz"
+        
+    },
+{
+      "name": "🟢肥灿",
+      "server": "http://43.200.153.107:55609/"
+    },
+  {
+      "name": "🟢悦享盘",
+      "server": "https://pity.eu.org/"
+    },
+{
+      "name": "🟢小雅备用",
+      "server": "http://123.60.188.109:5678/"
+    },
+    {"name": "🟢梓凌妙妙",
+    "server": "https://zi0.cc/"},
+    {"name": "🟢微资·随意盘",
+    "server": "https://apps.weixinqqq.com/"},
+  {
+      "name": "🟡A大杂物库",
+      "server": "https://alist.qyide.com/"
+    },
+  {
+      "name": "🟡诸神小盘",
+      "server": "https://pan.zsxg.top/"
+    },
+  {
+      "name": "🟡福利盘",
+      "server": "http://69.161.221.160:5244/"
+    },
+          {
+            "name": "公众号：挺好分享",
+            "server": "https://pan.xwbeta.com"
+          }
+        ]
+      }
+    ]
+  }
+}

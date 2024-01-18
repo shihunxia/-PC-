@@ -1,0 +1,314 @@
+﻿{
+    "video": {
+        "sites": [	
+            {
+                "key": "douban",
+                "name": "拾光丨首页",
+                "type": 3,
+				"indexs": 1,
+                "api": "douban_open.js"
+            },		
+            {
+                "key": "nangua",
+                "name": "拾光丨南瓜",
+                "type": 3,
+                "api": "ng_open.js"
+            },		
+            {
+                "key": "xyyy",
+                "name": "拾光丨小Y",
+                "type": 3,
+                "api": "xyyy_open.js"
+            },		
+            {
+                "key": "ikanbot",
+                "name": "拾光丨爱看",
+                "type": 3,
+                "api": "ikanbot_open.js"
+            },					
+            {
+                "key": "wogg",
+                "name": "拾光丨哥哥",
+                "type": 3,
+                "api": "wogg_open.js",
+                "ext": "请在此处输入阿里token"
+            },
+            {
+                "key": "wobg",
+                "name": "拾光丨表弟",
+                "type": 3,
+                "api": "wobg_open.js",
+                "ext": "请在此处输入阿里token"
+            },	
+            {
+                "key": "xiaozhitiao",
+                "name": "拾光丨小纸条",
+                "type": 3,
+                "api": "xiaozhitiao_open.js",
+                "ext": "请在此处输入阿里token"
+            },			
+            {
+                "key": "dovx",
+                "name": "拾光丨七夜",
+                "type": 3,
+                "api": "dovx_open.js",
+                "ext": "请在此处输入阿里token"
+            },	
+            {
+                "key": "pansearch",
+                "name": "拾光丨PanS",
+                "type": 3,
+                "api": "pansearch_open.js",
+                "ext": "请在此处输入阿里token"
+            },
+            {
+                "key": "pansou",
+                "name": "拾光丨盘搜",
+                "type": 3,
+                "api": "pansou_open.js",
+                "ext": "请在此处输入阿里token"
+            },	
+            {
+                "key": "upyun",
+                "name": "拾光丨云搜",
+                "type": 3,
+                "api": "upyun_open.js",
+                "ext": "请在此处输入阿里token"
+            },	
+            {
+                "key": "yiso",
+                "name": "拾光丨易搜",
+                "type": 3,
+                "api": "yiso_open.js",
+                "ext": "请在此处输入阿里token"
+            },	
+            {
+                "key": "yunpan4k",
+                "name": "拾光丨云盘",
+                "type": 3,
+                "api": "yunpan4k_open.js",
+                "ext": "请在此处输入阿里token"
+            },	
+            {
+                "key": "zhaozy",
+                "name": "拾光丨资源",
+                "type": 3,
+                "api": "zhaozy_open.js",
+                "ext": "请在此处输入阿里token"
+            },			
+            {
+                "key": "17kan",
+                "name": "拾光丨一起看",
+                "type": 3,
+                "api": "yqktv_open.js"
+            },
+            {
+                "key": "tutu",
+                "name": "拾光丨图图",
+                "type": 3,
+                "api": "tutu_open.js"
+            },
+            {
+                "key": "rejumao",
+                "name": "拾光丨热剧",
+                "type": 3,
+                "api": "apptov5_open.js",
+                "ext": {
+                    "domains": [
+                        "https://app-1253196701.cos.ap-shanghai.myqcloud.com/app.txt",
+                        "https://www.daenwl.com/app.txt"
+                    ],
+                    "aesKey": "8y8sDX3ZG22yACH3ZM5KfNGieTxEMKFe",
+                    "aesIV": "WxRAbh68C8pP6SpN",
+                    "rasPublicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6Ykikz4aIqkJC899VxwX\nwx27bZJGV/fDbgAHtXxZ73Mq8QWuPfeAanWDWiGPhJu5aVQndADi7B0L5RBIrirf\n6lIzA+l8Ubt6+nvPYQ9NSlRkObE4ML2Hw7ccAmcqzDD0vplJz7Y8o7qKIoyfK5NP\nXDuiv52HgbyEP6KlWCiDfMuIsAA+/3x9C/0RDRgjf3x+24EuGOD6Gnw+rVJCOb64\nW4KZ7vH/uhaQSLLnNYF9VD00c072tOeaBt2mElexJN66gcP65kmrkI5grFz2RcEg\nIEkwUcYBNiFeHUcFyQZuDj/DLqQidwMhFJfkcUuMtByR9cYl9BpqT/3NKVQ1EPrV\n7QIDAQAB\n-----END PUBLIC KEY-----",
+                    "ic": "fwEUWytkwJqHICtu/kNrXOVGQAzWUw1mGuQYdT1heOKZ6vEEI+4jf6LAHJ/f4h39ZR2WL4fccGchSoCm+pqkBRi8asSMqZzKGGfY8ejzrYHxDjiTOhs4B6p/iC8Nrj+bcCmXAjVNksfxlcjU6JlbRQ=="
+                }
+            },	
+            {
+                "key": "zhuiyi",
+                "name": "拾光丨追忆",
+                "type": 3,
+                "api": "apptov5_open.js",
+                "ext": {
+                "domains": ["https://xtao-1253811961.cos.ap-chengdu.myqcloud.com/appto/xtao.json"],
+                "aesKey": "we2CwNfG7PJppQmBfX8MMMQaWbSdcDXi",
+                "aesIV": "DnT3jxT8RYsa8ctc",
+                "rasPublicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsKLhkMcBpvQ7x1bhAVDgNWdhJpkVUhWQaunZoDD7IwUNkkzl3cgHOBVo6H8IkoTnMAHwWnLIK9xHTwtN0ikAbZvlIOrOWwrhWwGYUAVSAtZm7FDHyVQlW3ZSv+oeBceIE7MZbCi7ZmS3Ft2XEdEEyjXdvaQN8f+1ORmf/AsMTwfX2QhsjD1qNtq+pCw9wnd+AWGW6lAG8mxNTygfWqKT2GZsor5v3qq/qsMiFL7aUy/ZiBlHInzC3R9ZP6mWICt72Su+C9VzH+LHdiSMWmpZ1uT7EPJfh0MgzQUbIhNPVMeOBkDcf93DzO+zTDznpPCed12OORZL5PDg/2lK8i+HCwIDAQAB\n-----END PUBLIC KEY-----",
+                "ic": "4Dqrm2DknrkdH3qOh7rE2nwK9BUd5cMVriFc+kWKpUedUJt6cLXHcROX9ps/2rBoBEftIjKkCAB5PSxCJUoKm/1n1mEZt7hQLSyIco9fRfS1QwyZItfMvHbjPJoB0vQnOvlcl7C8lgRZHFQLVXh9iA=="
+               }
+            }	
+        ]
+    },
+    "read": {
+        "sites": [
+            {
+                "key": "bookan",
+                "name": "拾光丨博看",
+                "type": 10,
+                "api": "bookan_open.js"
+            },
+            {
+                "key": "lbgs",
+                "name": "拾光丨小白",
+                "type": 10,
+                "api": "lbgs_open.js"
+            },
+            {
+                "key": "zz123",
+                "name": "拾光丨zz123",
+                "type": 10,
+                "api": "zz123_open.js"
+            },          
+            {
+                "key": "230ts_book",
+                "name": "拾光丨爱尚",
+                "type": 10,
+                "api": "230ts_book_open.js"
+            },
+            {
+                "key": "dj0898_book",
+                "name": "拾光丨DJ",
+                "type": 10,
+                "api": "dj0898_book_open.js"
+            }
+        ]
+    },
+    "pan": {
+        "sites": [
+            {
+                "key": "alist",
+                "name": "Alist",
+                "type": 40,
+                "api": "alist_open.js",
+                "ext": [
+                    {
+                        "name": "📚拾光丫仙女",
+                        "server": "http://alist.xiaoya.pro/",
+                        "startPage": "/",
+                        "showAll": false,
+                        "search": true,
+                        "headers": {
+                            "Authorization": ""
+                        },
+                        "params": {
+                            "/abc": {
+                                "password": "123"
+                            },
+                            "/abc/abc": {
+                                "password": "123"
+                            }
+                        }
+                    },
+                    {
+                        "name": "📚罗汉",
+                        "server": "https://lala-ofbip.run.goorm.site/"
+                    },
+                    {
+                        "name": "📚福利",
+                        "server": "http://69.161.221.160:5244/"
+                    },
+                    {
+                        "name": "📚合集",
+                        "server": "http://www.jczyl.top:5244/"
+                    },
+                    {
+                        "name": "📚东哥",
+                        "server": "http://101.34.67.237:5244/"
+                    },
+                    {
+                        "name": "📚美云",
+                        "server": "https://h.dfjx.ltd/"
+                    },
+                    {
+                        "name": "📚小新",
+                        "server": "https://pan.cdnxin.top/"
+                    },
+                    {
+                        "name": "📚白云",
+                        "server": "http://breadmyth.asuscomm.com:22222/"
+                    },
+                    {
+                        "name": "📚瑶瑶",
+                        "server": "https://lyly.run.goorm.io/"
+                    },
+                    {
+                        "name": "📚潇洒",
+                        "server": "https://alist.azad.asia/"
+                    },
+                    {
+                        "name": "📚 鹏程",
+                        "server": "https://pan.pengcheng.team/"
+                    },
+                    {
+                        "name": "📚浅唱",
+                        "server": "http://vtok.pp.ua/"
+                    },
+                    {
+                        "name": "📚触光",
+                        "server": "https://pan.ichuguang.com"
+                    },
+                    {
+                        "name": "📚星梦",
+                        "server": "https://pan.bashroot.top"
+                    },
+                    {
+                        "name": "📚弱水",
+                        "server": "http://shicheng.wang:555/"
+                    },
+                    {
+                        "name": "📚神器",
+                        "server": "https://alist.ygxz.xyz/"
+                    },
+                    {
+                        "name": "📚资源",
+                        "server": "https://pan.ecve.cn/"
+                    },
+                    {
+                        "name": "📚雨呢",
+                        "server": "https://pan.clun.top/"
+                    },
+                    {
+                        "name": "📚悦享",
+                        "server": "https://nics.eu.org/"
+                    },
+                    {
+                        "name": "📚分享",
+                        "server": "https://ofoo.ml/"
+                    },
+                    {
+                        "name": "📚PRO",
+                        "server": "https://alist.prpr.run/"
+                    },
+                    {
+                        "name": "📚小陈",
+                        "server": "https://ypan.cc/"
+                    },
+                    {
+                        "name": "📚七米",
+                        "server": "https://al.chirmyram.com"
+                    },
+                    {
+                        "name": "📚九帝",
+                        "server": "https://alist.shenzjd.com"
+                    },
+                    {
+                        "name": "📚白雪",
+                        "server": "https://pan.jlbx.xyz"
+                    },
+                    {
+                        "name": "📚星梦",
+                        "server": "https://pan.bashroot.top"
+                    },
+                    {
+                        "name": "📚讯维",
+                        "server": "https://pan.xwbeta.com"
+                    },
+                    {
+                        "name": "📚拾光畅谈📚",
+                        "server": "https://pan.xwbeta.com"
+                    }
+                ]
+            }
+        ]
+    }
+}

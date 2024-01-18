@@ -1,0 +1,148 @@
+{
+  "video": {
+    "sites": [
+      {
+        "key": "kunyu77",
+        "name": "奥秘七七",
+        "type": 3,
+        "api": "assets://js/kunyu77_open.js"
+      }, 
+      {
+        "key": "kkys",
+        "name": "奥秘快看",
+        "type": 3,
+        "api": "assets://js/kkys_open.js"
+      },
+       {
+        "key": "ikanbot",
+        "name": "奥秘爱看",
+        "type": 3,
+        "api": "assets://js/ikanbot_open.js"
+      },
+       {
+        "key": "ngsp",
+        "name": "奥秘南瓜",
+        "type": 3,
+        "api": "assets://js/ng_open.js"
+      },
+        {
+        "key": "mybl",
+        "name": "奥秘哔哩",
+        "type": 3,
+        "api": "assets://js/mybili_open.js"
+      },
+       {
+        "key": "wogg",
+        "name": "奥秘玩偶",
+        "type": 3,
+        "api": "assets://js/wogg.js",
+        "ext": "填入自己阿里token"
+      },
+       {
+        "key": "czzy",
+        "name": "奥秘厂长",
+        "type": 3,
+        "api": "assets://js/czzy_open.js"
+      },
+       { 
+        "key": "nivod", 
+        "name": "奥秘泥巴✈", 
+        "type": 3, 
+        "api": "assets://js/nivod_op.js",
+        "ext":"888解忧愁" 
+       },
+      {
+        "key": "duboku",
+        "name": "奥秘独播✈",
+        "type": 3,
+        "api": "assets://js/duboku_open.js"
+      },
+      {
+        "key": "duboku2",
+        "name": "奥秘独播⋘",
+        "type": 3,
+        "api": "assets://js/duboku2_open.js"
+      },
+      {
+          "key": "subaibai",
+          "name": "素白白⋘",
+          "type": 3,
+          "api": "assets://js/subaibai_open.js"
+      },
+      {
+        "key": "230ts",
+        "name": "听书⋘",
+        "type": 3,
+        "api": "assets://js/230ts_open.js"
+      },
+      {
+        "key": "xiaoya-tv",
+        "name": "小雅⋘",
+        "type": 3,
+        "api": "assets://js/xiaoya.js",
+        "ext": "前往@omiitop查看文档教程，部署alist-tvobx，IP+端口/vod1/"
+      },
+      {
+        "key": "bilibili⋘",
+        "name": "BiliBili",
+        "type": 3,
+        "api": "assets://js/bilibili.js",
+        "ext": "前往@omiitop查看文档教程，部署alist-tvobx，IP+端口/bilibili/"
+      }
+    ]
+  },
+  "pan": {
+    "sites": [
+      {
+        "key": "alist",
+        "name": "Alist",
+        "type": 40,
+        "api": "assets://js/alist_open.js",
+        "ext": [
+          {
+            "name": "🙋丫仙女",
+            "server": "http://alist.xiaoya.pro/",
+            "startPage": "/",
+            "showAll": false,
+            "search": true,
+            "headers": {
+              "Authorization": ""
+            },
+            "params": {
+              "/abc": {
+                "password": "123"
+              },
+              "/abc/abc": {
+                "password": "123"
+              }
+            }
+          },
+          {
+            "name": "七米蓝",
+            "server": "https://al.chirmyram.com"
+          },
+          {
+            "name": "神族九帝",
+            "server": "https://alist.shenzjd.com"
+          },
+          {
+            "name": "姬路白雪",
+            "server": "https://pan.jlbx.xyz"
+          },
+          {
+            "name": "星梦",
+            "server": "https://pan.bashroot.top"
+          },
+          {
+            "name": "repl",
+            "server": "https://ali.liucn.repl.co"
+          },
+          {
+            "name": "讯维云盘",
+            "server": "https://pan.xwbeta.com"
+          }
+        ]
+      }
+    ]
+  }
+}
